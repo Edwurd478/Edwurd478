@@ -1,8 +1,5 @@
 ## About Me
 
-<!--
-**Edwurd478/Edwurd478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
 I'm Edward, a self-taught developer, entrepreneur, and an incoming first-year at the University of Chicago
 
 - 🔭 I’m currently developing a machine-learning program to help students and employees practice giving presentations. I'm also starting a clothing brand on the side.
