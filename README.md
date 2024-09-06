@@ -1,7 +1,7 @@
 ## About Me
 
 <!--
-**Edwurd478/Edwurd478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Edwurd478/Edwurd478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 I'm Edward, a self-taught developer, entrepreneur, and an incoming first-year at the University of Chicago
 
